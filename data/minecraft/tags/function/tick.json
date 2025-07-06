@@ -1,0 +1,7 @@
+{
+  "values": [
+    "teenagerfog:tick",
+    "teenagerfog:chest/particle/tick",
+    "teenagerfog:lectern/particle/tick"
+  ]
+}
